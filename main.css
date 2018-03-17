@@ -1,0 +1,46 @@
+			html,body {
+				height: 100%;
+				margin: 0px;
+			}
+
+			div {
+				height: 100%;
+				position: center;
+				background-attachment: fixed;
+				background-repeat: no-repeat;
+			}
+			.cat1 {
+				background-image: url(http://andrevv.com/img/catz/catz01.gif);
+				background-color: #FF0066;
+			}
+			.cat2 {
+				background-image: url(http://andrevv.com/img/catz/catz02.gif);
+				background-color: #D400FF;
+			}
+			.cat3 {
+				background-image: url(http://andrevv.com/img/catz/catz03.gif);
+				background-color: #8000FF;
+			}			
+			.cat4 {
+				background-image: url(http://andrevv.com/img/catz/catz04.gif);
+				background-color: #0D00FF;
+			}.cat5 {
+				background-image: url(http://andrevv.com/img/catz/catz05.gif);
+				background-color: #D400FF;
+			}
+			.cat6 {
+				background-image: url(http://andrevv.com/img/catz/catz06.gif);
+				background-color: #00C3FF;
+			}			
+			.cat7 {
+				background-image: url(http://andrevv.com/img/catz/catz07.gif);
+				background-color: #00FF7B;
+			}
+			.cat8 {
+				background-image: url(http://andrevv.com/img/catz/catz08.gif);
+				background-color: #15FF00;
+			}
+			.cat9 {
+				background-image: url(http://andrevv.com/img/catz/catz09.gif);
+				background-color: #BFFF00;
+			}			
